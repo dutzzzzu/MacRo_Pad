@@ -1,20 +1,12 @@
 PCB design files for the macropad.
 # PCB Design
 
-<table>
-<tr>
-<td align="center">
+## PCB Design
 
-### Schematic
-<img src="photos/pcb_schem.png" width="400">
+| Schematic | PCB (no buttons) |
+|-----------|------------------|
+| <img src="./pcb_schem.png" width="400"> | <img src="./no_buttons.png" width="400"> |
 
-</td>
-
-<td align="center">
-
-### PCB Layout
-<img src="photos/pcb.png" width="400">
-
-</td>
-</tr>
-</table>
+| PCB Front | All Components |
+|-----------|---------------|
+| <img src="./face.png" width="400"> | <img src="./all_comp.png" width="400"> |
