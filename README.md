@@ -1,2 +1,7 @@
-# MacRo_Pad
-6-key macropad with 2 rotary encoders and OLED display powered by Seeed XIAO RP2040
+# MacRoPad v2
+
+<p align="center">
+  <img src="render.png" width="700">
+</p>
+
+A 6-key macropad with dual rotary encoders and OLED display.
