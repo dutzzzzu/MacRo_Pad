@@ -1,6 +1,6 @@
 # CAD
 
-3D models for the macropad case.
+3D models for the MacRo_Pad case.
 
 | Assembly | Case |
 |---|---|
