@@ -7,14 +7,14 @@ PCB design files for the macropad.
 <td align="center">
 
 ### Schematic
-<img src="photos/pcb_schem.png" width="400">
+<img src="photos/" width="400">
 
 </td>
 
 <td align="center">
 
 ### PCB Layout
-<img src="photos/pcb.png" width="400">
+<img src="photos/" width="400">
 
 </td>
 </tr>
