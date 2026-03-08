@@ -3,7 +3,7 @@ PCB design files for the macropad.
 # PCB Design
 
 ## Schematic
-![schematic](photos/pcb_schem.png)
+<img src="photos/pcb_schem.png" width="500">
 
 ## PCB Layout
-![pcb](photos/pcb.png)
+<img src="photos/pcb.png" width="500">
