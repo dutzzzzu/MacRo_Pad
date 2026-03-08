@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MacRoPad.kicad_pro",
+    "filename": "MacRoPadv2.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "MacRoPadv2.step",
       "svg": "",
       "vrml": ""
     },
