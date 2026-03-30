@@ -4,57 +4,52 @@
   <tr>
     <td valign="top" width="50%">
 
-### OLED
-- Shows the current layout after interaction
-- Shows the time after ~15s of inactivity
-- Shows a percentage + slider when changing values
+<b>OLED</b><br>
+- Shows layout after interaction<br>
+- Shows time after ~15s idle<br>
+- Shows % + slider on change<br><br>
 
-### Rotary Encoders
-- **Encoder 1:** master volume
-- **Encoder 2:** brightness / focus volume
-- **Key 3:** switches Encoder 2 mode
-- **Key 6:** switches layout
+<b>Rotary Encoders</b><br>
+- Encoder 1: volume<br>
+- Encoder 2: brightness / focus<br>
+- Key 3: toggle mode<br>
+- Key 6: switch layout
 
     </td>
     <td valign="top" width="50%">
 
-### Productivity
+<b>Productivity</b><br><br>
 
-| Key 1 | Key 2 | Key 3 |
-|------|------|------|
-| Copy | Paste | Encoder mode |
+1  | 2  | 3<br>
+Copy | Paste | Mode<br><br>
 
-| Key 4 | Key 5 | Key 6 |
-|------|------|------|
-| Lock screen | Quit app | Switch layout |
+4  | 5  | 6<br>
+Lock | Quit | Layout
 
     </td>
   </tr>
+
   <tr>
     <td valign="top" width="50%">
 
-### Media
+<b>Media</b><br><br>
 
-| Key 1 | Key 2 | Key 3 |
-|------|------|------|
-| Previous track | Next track | Encoder mode |
+1  | 2  | 3<br>
+Prev | Next | Mode<br><br>
 
-| Key 4 | Key 5 | Key 6 |
-|------|------|------|
-| Play / Pause | Open Spotify | Switch layout |
+4  | 5  | 6<br>
+Play | Spotify | Layout
 
     </td>
     <td valign="top" width="50%">
 
-### Home Assistant
+<b>Home Assistant</b><br><br>
 
-| Key 1 | Key 2 | Key 3 |
-|------|------|------|
-|  |  | Encoder mode |
+1  | 2  | 3<br>
+- | - | Mode<br><br>
 
-| Key 4 | Key 5 | Key 6 |
-|------|------|------|
-|  |  | Switch layout |
+4  | 5  | 6<br>
+- | - | Layout
 
     </td>
   </tr>
