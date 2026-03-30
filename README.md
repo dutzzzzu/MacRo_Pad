@@ -5,12 +5,30 @@ It’s designed for quick media control, productivity shortcuts, and future smar
 Currently built for macOS. Home Assistant integration and Windows support will be added once the hardware is available.
 
 ---
-
 ## Overview
 
-| Render | Case | Schematic | PCB |
-|--------|------|-----------|-----|
-| ![](photos/render.png) | ![](photos/case.png) | ![](photos/schem.png) | ![](photos/pcb_schem.png) |
+<table>
+  <tr>
+    <td align="center">
+      <b>Render</b><br>
+      <img src="photos/render.png" width="400">
+    </td>
+    <td align="center">
+      <b>Case</b><br>
+      <img src="photos/case.png" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Schematic</b><br>
+      <img src="photos/schem.png" width="400">
+    </td>
+    <td align="center">
+      <b>PCB</b><br>
+      <img src="photos/pcb_schem.png" width="400">
+    </td>
+  </tr>
+</table>
 
 ---
 
