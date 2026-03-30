@@ -24,9 +24,7 @@ Currently built for macOS. Home Assistant integration and Windows support will b
 | EC11 rotary encoders | 2 | Rotation only |
 | 0.91" OLED display (SSD1306) | 1 | I2C |
 | 1N4148 diodes | 6 | Key matrix |
-| SK6812 MINI-E LEDs | 6 | Optional |
-| Resistors | ~6 | For LEDs |
 | Custom PCB | 1 | Designed in KiCad |
 | 3D printed case | 1 | Custom enclosure |
-| M3 screws | 4 | Assembly |
-| M3 heatset inserts | 4 | Mounting |
+| M3 screws | 1 | Assembly |
+| M3 heatset inserts | 1 | Mounting |
