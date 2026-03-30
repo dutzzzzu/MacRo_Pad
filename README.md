@@ -44,5 +44,6 @@ Currently built for macOS. Home Assistant integration and Windows support will b
 | 1N4148 diodes | 6 | Key matrix |
 | Custom PCB | 1 | Designed in KiCad |
 | 3D printed case | 1 | Custom enclosure |
+| 3D printed knobs | 2 | Custom knobs |
 | M3 screws | 1 | Assembly |
 | M3 heatset inserts | 1 | Mounting |
